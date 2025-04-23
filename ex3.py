@@ -1,3 +1,9 @@
+# 3. A KXorro QuemT vende hotdog a R$ 10,00, Crepes a R$ 7,00 e refri a R$ 5,00. Faça um programa com um menu com as opções:
+# 1 - Hotdog $10,00
+# 2 - Crepes $ 7,00
+# 3 - Refri R$ 5,00
+# 9 - Finalizar venda
+# Para cada opção 1, 2 ou 3, ler a quantidade e calcule o valor total da venda. Ao finalizar a venda, escrever o valor total da venda.
 valor = 0
 print("1- Cachorro Quente: R$10,00")
 print("2- Crepes: R$7,00")
